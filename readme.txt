@@ -1,6 +1,4 @@
-# Bosch's Route Optimisation Algorithm  
-# Submitted by : Team IITKgp
-
+# Route Optimisation Algorithm  
 
 ## Install
 This project requires Python3 and the following Python libraries installed:
