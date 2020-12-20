@@ -1,8 +1,7 @@
-NumPy
-Pandas
+numpy
+pandas
 matplotlib
 scikit-learn
 pulp
-random
 csv
 geopy
